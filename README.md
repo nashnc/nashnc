@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&&size=34&weight=700&duration=0&pause=10000000000&color=d1330e&center=true&vCenter=true&width=435&lines=nashnc)](https://github.com/DenverCoder1/readme-typing-svg)
- #  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1000&pause=10000&color=d1330e&center=true&vCenter=true&width=435&lines=is-a+Developer;is-a+YouTuber;)](https://github.com/DenverCoder1/readme-typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&&size=34&weight=700&duration=1&pause=10000000000&color=d1330e&center=true&vCenter=true&width=435&lines=nashnc)](https://github.com/DenverCoder1/readme-typing-svg)
+ #  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=10000&color=d1330e&center=true&vCenter=true&width=435&lines=is-a+Developer;is-a+YouTuber;)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-d1330e?style=for-the-badge&logo=github)](https://nashnc.is-a.dev) 
 
